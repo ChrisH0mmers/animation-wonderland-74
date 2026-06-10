@@ -37,14 +37,13 @@ const materials = [
 const colors = [
   { name: "White", hex: "#f5f4f0" },
   { name: "Black", hex: "#15140f" },
-  { name: "Grey", hex: "#8a8a86" },
+  { name: "Silver", hex: "#8a8a86" },
   { name: "Red", hex: "#d83030" },
   { name: "Orange", hex: "#ef7a2a" },
-  { name: "Yellow", hex: "#f3c52a" },
+  { name: "Wood", hex: "#9D6C3C" },
   { name: "Green", hex: "#1D9E75" },
   { name: "Blue", hex: "#2a6cef" },
-  { name: "Purple", hex: "#7a3aef" },
-  { name: "Pink", hex: "#ef58a8" },
+  { name: "Pink", hex: "#FFC0CB" },
 ];
 
 function RequestPage() {
